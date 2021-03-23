@@ -1,1 +1,5 @@
-# Week_06_Day_01_Homework_Scope_Whodunnit
+# Scope in JavaScript Functions
+
+Understand function scope
+
+Know the difference in between the let and const keywords
